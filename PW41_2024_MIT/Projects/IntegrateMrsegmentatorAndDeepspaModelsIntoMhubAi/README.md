@@ -67,16 +67,26 @@ TBD
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+### During Project Week
+- MRSegmentator is wrapped in the MhubAI framework and ready to be tested
+    - Segmentations are registered as DICOM-SEG and can be easily compared to other segmentation models
 
+- DeepSpA model is wrapped in the MhubAI framework and ready to be tested
+    - Model produces Visual as well as Classification outputs, both are organized and stored by MhubAI
 
-TBD
+### After Project Week
+- Complete the testing process to finish publication on the MHubAI platform.
+  
 
 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
+ <video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/122161540/18d8fdd9-17bd-4a16-acd2-d1a2abdb3d93"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 Illustrations of both models can be seen on their respective GitHub pages, linked below:
 
